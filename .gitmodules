@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/bacharawada/sonoguideUI.git
+	url = https://github.com/LATIS-LABS-ETS/sonoguideUI.git
 [submodule "backend"]
 	path = backend
-	url = https://github.com/bacharawada/sonoguideAPI.git
+	url = https://github.com/LATIS-LABS-ETS/sonoguideAPI.git
